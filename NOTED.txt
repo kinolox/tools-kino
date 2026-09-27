@@ -1,0 +1,8 @@
+Requirements python modules
+
+pandas
+requests
+os
+playwright
+time
+re
